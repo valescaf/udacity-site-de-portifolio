@@ -1,9 +1,11 @@
-# Portfolio Site
-## Project 2 - Nanodegree Full Stack Web Developer
+# Portfolio
+This Portfolio is a project from Nanodegree Desenvolvedor Web Full-Stack da Udacity
 
-Site to display portfolio.
+## Goals
 
-### How to run?
-1. Download or clone the repository (https://github.com/valescaf/udacity-site-de-portifolio)
-2. Access the project folder
-3. Double click on index.html
+  - [x] Replicate Design with HTML and CSS
+  - [x] Make the website responsive
+  
+### Mockup
+
+![Portfolio](https://github.com/valescaf/udacity-site-de-portifolio/master/img/design-mockup-portfolio.png 'Portfolio Mockup')
