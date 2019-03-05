@@ -8,4 +8,4 @@ This Portfolio is a project from Nanodegree Desenvolvedor Web Full-Stack da Udac
   
 ### Mockup
 
-![Portfolio](https://github.com/valescaf/udacity-site-de-portifolio/master/img/design-mockup-portfolio.png 'Portfolio Mockup')
+![Portfolio](https://github.com/valescaf/udacity-site-de-portifolio/blob/master/img/design-mockup-portfolio.png 'Portfolio Mockup')
